@@ -1,0 +1,126 @@
+.container img{
+    width: 220px;
+
+}.sign{background-color: seagreen;
+    color: white;
+    border-radius: 20px;
+    width: 140px;
+    padding: 4px 4px 8px;
+    border: none;
+    
+
+
+}
+
+.container{
+
+    margin-bottom: 100px;
+}.orange-bg{
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.price{
+    color: crimson;
+}
+.buy-now-button{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.cat1, .cat2, .cat3, .cat4{
+    padding: 10px 10px 30px;
+    border-radius: 10px;
+    background-color: seagreen;
+    height: 400px;
+    text-align-last: center;
+    margin-top: 40px;
+    
+
+}.catagories h1{
+    color: white;
+},.catagories img{
+    width: 100px;
+}.card{
+    border: none;
+box-shadow:2px 2px 7px crimson;
+}
+.card-footer{
+    background-color: whitesmoke;
+    border: none;
+}
+#Connect{
+    height: 300px;
+}#Connect h6{
+    color: gray;
+}footer{text-align: center;
+    color: grey;
+}
+.half-width{
+
+    width: 40%;
+    
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    }.half-width img{
+        
+        width: 500px;}
+
+        
+
+
+        }
+        .link-button{
+            border: plum;
+            border-radius: 5px;
+            padding: 7px 20px;
+            text-decoration:none;
+            background-color: rgba(220, 20, 60, 0.712);
+            color: silver;
+            font-weight: 800;
+            background-image: linear-gradient(45deg,salmon, tomato);}
+
+            .top-banner{
+                background-repeat: no-repeat;}
+                section{height: 500px;
+                padding-bottom: 150px;}
+
+        .card img{
+
+            width: 350px;
+        }
+        #awesome{
+width: 120px;
+align-items: flex-center;
+margin-left: 400px;
+margin-top: 40px;
+
+
+        }.special{
+            background-color: dimgray;
+            color: tomato;
+            padding: 50px 4px 20px;
+        }
+        .sama{
+
+        padding-top: 190px;
+        }
+        #mou{padding-bottom: 70px;
+            color: firebrick;
+
+
+        }
+        .sujon{
+            padding-top: 30px;
+        }.sujon1{
+            padding-top: 84px;
+        }.sujon2{
+            padding-top: 80px;
+        }.sujon3{
+            padding-top: 70px;
+        }
